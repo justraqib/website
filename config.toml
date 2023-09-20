@@ -1,0 +1,36 @@
+base_url = "https://itstauq.fyi"
+title = "itstauq.fyi"
+description = ""
+author = "itstauq"
+generate_feed = true
+compile_sass = false
+minify_html = true
+build_search_index = true
+theme = "tabi"
+
+[markdown]
+highlight_code = true
+
+[extra]
+copyright = "&copy; $CURRENT_YEAR Tauquir Ahmed $SEPARATOR"
+copy_button = true
+email = 'aGVsbG9AaXRzdGF1cS5meWk='
+feed_icon = true
+menu = [
+    { name = "Home", url = "", trailing_slash = true },
+    { name = "Posts", url = "posts", trailing_slash = true },
+    { name = "Projects", url = "projects", trailing_slash = true },
+    { name = "TIL", url = "tils", trailing_slash = true },
+    { name = "Tags", url = "tags", trailing_slash = true },
+    { name = "Contact", url = "contact", trailing_slash = true },
+]
+# quick_navigation_buttons = true
+show_reading_time = true
+skin = "indigo_ingot"
+socials = [
+    { name = "GitHub", url = "https://github.com/itstauq/", icon = "github" },
+    { name = "X", url = "https://twitter.com/itstauq/", icon = "x" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/itstauq/", icon = "linkedin" },
+    { name = "Resume", url = "https://bit.ly/467Kx6i", icon = "briefcase" },
+]
+stylesheets = ["css/custom.css"]
