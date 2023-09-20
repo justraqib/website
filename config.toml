@@ -1,12 +1,13 @@
-base_url = "https://itstauq.fyi"
-title = "itstauq.fyi"
-description = ""
 author = "itstauq"
-generate_feed = true
-compile_sass = false
-minify_html = true
+base_url = "https://itstauq.fyi"
 build_search_index = true
+compile_sass = false
+description = ""
+generate_feed = true
+minify_html = true
+taxonomies = [{name = "tags", feed = true}]
 theme = "tabi"
+title = "itstauq.fyi"
 
 [markdown]
 highlight_code = true
