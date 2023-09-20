@@ -1,8 +1,8 @@
 +++
-title = "TILs"
+title = "Today I Learned"
 sort_by = "date"
 insert_anchor_links = "left"
-paginate_by = 10
+paginate_by = 20
 path = "/tils"
 template = "section.html"
 
