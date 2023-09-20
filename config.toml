@@ -16,6 +16,7 @@ highlight_code = true
 copyright = "&copy; $CURRENT_YEAR Tauquir Ahmed $SEPARATOR"
 copy_button = true
 email = 'aGVsbG9AaXRzdGF1cS5meWk='
+favicon = "images/favicon.png"
 feed_icon = true
 menu = [
     { name = "Home", url = "", trailing_slash = true },
