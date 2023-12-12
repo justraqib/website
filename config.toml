@@ -2,10 +2,10 @@ author = "itstauq"
 base_url = "https://itstauq.fyi"
 build_search_index = true
 compile_sass = false
-description = ""
+description = "I'm Tauquir Ahmed, a seasoned full-stack Software Engineer at HackerEarth. My primary focus lies in backend engineering, DevOps, site reliability, and enhancing developer experience. This is my personal website, where I share insights into my journey and experiences in programming, cloud computing, microcontrollers, and the Internet of Things."
 generate_feed = true
 minify_html = true
-taxonomies = [{name = "tags", feed = true}]
+taxonomies = [{ name = "tags", feed = true }]
 theme = "tabi"
 title = "itstauq.fyi"
 
