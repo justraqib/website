@@ -1,5 +1,5 @@
 ## Website
-This is the repository for my personal website, located at [itstauq.fyi](https://itstauq.fyi/).
+This is the repository for my personal website, located at [justraqib.fyi](https://justraqib.fyi/).
 
 ## Stack
 - Framework: [Zola](https://www.getzola.org/)

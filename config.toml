@@ -1,20 +1,20 @@
-author = "itstauq"
-base_url = "https://itstauq.fyi"
+author = "justraqib"
+base_url = "https://justraqib.fyi"
 build_search_index = true
 compile_sass = false
-description = "I'm Tauquir Ahmed, a seasoned full-stack Software Engineer at HackerEarth. My primary focus lies in backend engineering, DevOps, site reliability, and enhancing developer experience. This is my personal website, where I share insights into my journey and experiences in programming, cloud computing, microcontrollers, and the Internet of Things."
-generate_feed = true
+description = "I'm Raqib Ahmed, a seasoned full-stack Software Engineer at HackerEarth. My primary focus lies in backend engineering, DevOps, site reliability, and enhancing developer experience. This is my personal website, where I share insights into my journey and experiences in programming, cloud computing, microcontrollers, and the Internet of Things."
+generate_feeds = true
 minify_html = true
 taxonomies = [{ name = "tags", feed = true }]
 theme = "tabi"
-title = "Tauquir Ahmed"
+title = "Raqib Ahmed"
 
 [markdown]
 highlight_code = true
 
 [extra]
-nav_title = "itstauq.fyi"
-copyright = "&copy; $CURRENT_YEAR Tauquir Ahmed $SEPARATOR"
+nav_title = "justraqib.fyi"
+copyright = "&copy; $CURRENT_YEAR Raqib Ahmed $SEPARATOR"
 copy_button = true
 email = 'aGVsbG9AaXRzdGF1cS5meWk='
 favicon = "images/favicon.png"
@@ -29,9 +29,9 @@ menu = [
 show_reading_time = true
 skin = "indigo_ingot"
 socials = [
-    { name = "GitHub", url = "https://github.com/itstauq/", icon = "github" },
-    { name = "X", url = "https://twitter.com/itstauq/", icon = "x" },
-    { name = "LinkedIn", url = "https://www.linkedin.com/in/itstauq/", icon = "linkedin" },
+    { name = "GitHub", url = "https://github.com/justraqib/", icon = "github" },
+    { name = "X", url = "https://twitter.com/justraqib/", icon = "x" },
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/justraqib/", icon = "linkedin" },
     { name = "Resume", url = "https://bit.ly/467Kx6i", icon = "briefcase" },
 ]
 stylesheets = ["css/custom.css"]
